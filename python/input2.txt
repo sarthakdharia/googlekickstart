@@ -1,0 +1,4 @@
+<s> Mary|N Jane|N can|M see|V Will|N </s>
+<s> Spot|N will|M see|V Mary|N </s>
+<s> Will|M Jane|N spot|V Mary|N </s>
+<s> Mary|N will|M see|V Spot|N </s>
